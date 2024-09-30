@@ -29,3 +29,10 @@
 2．	Guo H. What Are Tensors Exactly? New Jersey: World Scientific, 2021
 
 3．	赵松年, 于允贤. 张量学习三讲: 学习和理解张量的基础. 北京: 科学出版社, 2018 (反面教材)
+
+参考书[2]可在文件中找到，参考书[1][3]因超过25MB无法上传，可从以下链接获取：
+
+https://www.123pan.com/s/ocpijv-iCskh
+
+提取码:WAcx
+
